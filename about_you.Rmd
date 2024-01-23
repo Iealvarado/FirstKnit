@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Ixcell Espinoza-Alvarado"
+author: "Ixcell Espinoza- Alvarado"
 output: 
   html_document:
     number_sections: true
@@ -18,7 +18,7 @@ Where did you attend High School, and did you graduate? Compare english class to
   
 ### my answer     
   
-I Attended Lancaster High School.I preferred Math over english. 
+I Attended Lancaster High School.I preferred Math over English because there is only so much that you can learn in English before it becomes repetitive. where as in math there is a lot more to do .
      
 
 
@@ -26,14 +26,14 @@ I Attended Lancaster High School.I preferred Math over english.
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
-  
+  I use a Apple computer it doesn't make anything easier as you teach us on windows and I have to do the conversion. I would rate myself a 3 out of 10 seeing as how difficult i find this class right now due to the computer work
    
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
-  
+  I have no preference on my name I just go by Ixcell
    
  
 
@@ -44,7 +44,7 @@ What name do you prefer to be called by your classmates and instructor, if your 
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
 ### my answer     
-  
+  I would like to complete my BSN on Nursing and one day be able to get my Masters and become a N-NP. SO far the subject that has interested me the most has been psychology.
    
  
 
@@ -55,7 +55,7 @@ What do you want to achieve in life?  What college subject do you think would be
 Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
 ### my answer     
-  
+  I have lived half my life here in the US and half in Mexico and occasionally visit Salvador. I hope to one day travel to Europe and Italy 
    
   
 
@@ -69,7 +69,7 @@ What grade do you need to attain in stats to not upset your future plans, What i
 
 ### my answer     
   
-   
+  Since I do not have planned to transfer I thought Math 115 would be a good class to take. Ideally I would I would pass with an A but seeing as how hard I find this class I'll be happy with a B.
  
 
 
